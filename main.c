@@ -24,6 +24,6 @@ case 1:
     printf("food item-sandwich\n price-149\n");
      break;
     default:
-        printf("number not valid");
+        printf("use the default case");
 }
 }
